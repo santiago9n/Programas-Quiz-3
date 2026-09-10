@@ -1,0 +1,8 @@
+-------FACTURA ELECTRICA------
+Fecha y hora: 09/09/2026 22:24:33
+Nombre del cliente: asa
+Cantidad de KWh: 32
+Tipo de cliente: Comercial
+Subtotal: $7.04
+Recargo: $0.49
+Total a pagar: $7.53

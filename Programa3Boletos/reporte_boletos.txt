@@ -1,0 +1,8 @@
+------REPORTE DE BOLETOS-----
+Fecha y hora: 09/09/2026 22:36:12
+Nombre del comprador: ana
+Cantidad de boletos: 8
+Categoría: Preferencial
+Subtotal: $240.00
+Descuento: $28.80
+Total final a pagar: $211.20

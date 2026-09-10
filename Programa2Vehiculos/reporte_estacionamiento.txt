@@ -1,0 +1,10 @@
+-------REPORTE DE ESTACIONAMIENTO----------
+Fecha y hora: 09/09/2026 22:13:23
+Placa: 2k23s
+Horas estacionado: 12
+Tipo de vehiculo: Carro
+Tarifa por hora: $1.50
+Costo base: $18.00
+Descuento aplicado: $1.80
+Total a pagar: $16.20
+
